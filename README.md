@@ -94,14 +94,14 @@ This enables users to understand project health and operational risk instead of 
 ## Solution Screenshots
 
 ### Outlook Project Email
-[Image]
 
-### SharePoint Repository
-[Image]
+### Power Automate Processing Flow
 
+### SharePoint Intelligence Repository
 
-### Copilot Studio Agent Response
-[Image]
+### Copilot Studio Risk Analysis
+
+### Executive Summary Generation
 
 ## Demo Video
 
