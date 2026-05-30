@@ -187,6 +187,8 @@ Project communication received through email.
 <img width="852" height="696" alt="image" src="https://github.com/user-attachments/assets/1e1aae2d-1788-4150-9e7b-66df9ce21ab7" />
 
 ### Power Automate Processing Flow
+ProjectPulse automatically processes project communication and enriches it with operational metadata.
+<img width="1149" height="1369" alt="Flow" src="https://github.com/user-attachments/assets/e1f11454-1999-4bb0-9a1d-bd57af7da11c" />
 
 ### SharePoint Intelligence Repository
 Project communications are transformed into structured operational intelligence.
@@ -196,7 +198,6 @@ Project communications are transformed into structured operational intelligence.
 ### Copilot Studio Risk Analysis
 ProjectPulse converts project communications into actionable operational insights.
 <img width="1728" height="742" alt="image" src="https://github.com/user-attachments/assets/f42414ce-79e9-409c-bb47-f7ac6fec883d" />
-
 
 
 ### Executive Summary Generation
