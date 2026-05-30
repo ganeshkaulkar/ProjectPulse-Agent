@@ -61,7 +61,7 @@ Project managers can ask:
 - Generate an executive project update
 - What operational blockers currently exist?
 
-  ## Why It Matters
+## Why It Matters
 
 Organizations do not suffer from lack of information.
 
