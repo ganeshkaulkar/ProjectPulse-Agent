@@ -40,20 +40,52 @@ The diagram below illustrates how ProjectPulse transforms project-related commun
 
 ## Architecture
 
-Outlook Email
-      ↓
-Power Automate
-      ↓
-Project ID Extraction
-      ↓
-SharePoint Repository
-      ↓
-Metadata Enrichment
-(Risk Level, Email Type, Escalation Indicators)
-      ↓
-Copilot Studio Agent
-      ↓
-Operational Intelligence
+## Architecture
+
+
+Project Communication
+(Emails + Attachments)
+              │
+              ▼
+      Outlook Mailbox
+              │
+              ▼
+      Power Automate
+              │
+      ┌───────┼────────┐
+      │       │        │
+      ▼       ▼        ▼
+Project ID  Metadata  Attachment
+Extraction Enrichment Processing
+
+              │
+              ▼
+     SharePoint Repository
+      (Project Knowledge Hub)
+
+      ┌────────┬─────────┬─────────┐
+      │        │         │         │
+      ▼        ▼         ▼         ▼
+ Project   Risk      Email      Supporting
+ Files     Level     Type       Documents
+
+              │
+              ▼
+      Copilot Studio Agent
+
+              │
+      ┌───────┼─────────────┐
+      │       │             │
+      ▼       ▼             ▼
+ Project   Risk &       Executive
+ Summary   Escalation   Insights
+            Analysis
+
+              │
+              ▼
+      Operational Intelligence
+
+
 
 ## Example Questions
 
