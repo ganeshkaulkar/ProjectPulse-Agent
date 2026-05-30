@@ -38,10 +38,6 @@ The diagram below illustrates how ProjectPulse transforms project-related commun
 <img width="1536" height="1024" alt="ConceptualDiagram" src="https://github.com/user-attachments/assets/43008424-eefa-4312-a7cd-a10754dcb45a" />
 
 
-## Architecture
-
-## Architecture
-
 
 ## Architecture
 
