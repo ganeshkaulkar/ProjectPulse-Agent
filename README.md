@@ -183,6 +183,9 @@ ProjectPulse helps organizations:
 
 ### Outlook Project Email
 
+Project communication received through email.
+<img width="852" height="696" alt="image" src="https://github.com/user-attachments/assets/1e1aae2d-1788-4150-9e7b-66df9ce21ab7" />
+
 ### Power Automate Processing Flow
 
 ### SharePoint Intelligence Repository
