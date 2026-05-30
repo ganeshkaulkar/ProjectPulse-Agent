@@ -91,7 +91,7 @@ before AI reasoning occurs.
 This enables users to understand project health and operational risk instead of simply searching documents.
 
 
-## Screenshots
+## Solution Screenshots
 
 ### Outlook Project Email
 [Image]
