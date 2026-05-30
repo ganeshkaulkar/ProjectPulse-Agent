@@ -189,10 +189,19 @@ Project communication received through email.
 ### Power Automate Processing Flow
 
 ### SharePoint Intelligence Repository
+Project communications are transformed into structured operational intelligence.
+<img width="1697" height="897" alt="image" src="https://github.com/user-attachments/assets/690e3821-2aec-4c3b-9114-ec04fe762e58" />
+
 
 ### Copilot Studio Risk Analysis
+ProjectPulse converts project communications into actionable operational insights.
+<img width="1728" height="742" alt="image" src="https://github.com/user-attachments/assets/f42414ce-79e9-409c-bb47-f7ac6fec883d" />
+
+
 
 ### Executive Summary Generation
+AI-generated executive insights support faster project governance and decision-making.
+<img width="1802" height="900" alt="image" src="https://github.com/user-attachments/assets/2eb70d18-5550-4342-b54f-66ab9d3ecbe5" />
 
 
 ## Hackathon Track
