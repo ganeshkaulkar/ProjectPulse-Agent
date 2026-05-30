@@ -43,6 +43,9 @@ The diagram below illustrates how ProjectPulse transforms project-related commun
 ## Architecture
 
 
+## Architecture
+
+```text
 Project Communication
 (Emails + Attachments)
               │
@@ -84,6 +87,8 @@ Extraction Enrichment Processing
               │
               ▼
       Operational Intelligence
+```
+
 
 
 
