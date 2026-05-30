@@ -6,20 +6,6 @@ ProjectPulse transforms fragmented project communication into actionable operati
 
 By automatically capturing project emails, attachments, escalations, and status updates, ProjectPulse enables project managers and leadership teams to identify risks earlier, understand project health instantly, and generate executive-ready insights using natural language.
 
-## Key Innovation
-
-Unlike traditional document retrieval solutions, ProjectPulse enriches project communication with operational metadata before AI reasoning occurs.
-
-The solution automatically identifies:
-
-- Project identifiers
-- Risk levels
-- Escalation indicators
-- Communication types
-- Supporting project evidence
-
-This allows the agent to reason about project health, risk exposure, and leadership actions rather than simply retrieving documents.
-
 
 ## Problem Statement
 
@@ -185,6 +171,21 @@ ProjectPulse helps organizations:
 * Enable leadership-level project insights
 * Reduce dependency on manual email reviews
 * Accelerate project status reporting
+
+## Key Innovation
+
+Unlike traditional document retrieval solutions, ProjectPulse enriches project communication with operational metadata before AI reasoning occurs.
+
+The solution automatically identifies:
+
+- Project identifiers
+- Risk levels
+- Escalation indicators
+- Communication types
+- Supporting project evidence
+
+This allows the agent to reason about project health, risk exposure, and leadership actions rather than simply retrieving documents.
+
 
 ## Sample Operational Outcomes
 
