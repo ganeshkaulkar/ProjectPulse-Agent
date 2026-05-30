@@ -85,6 +85,15 @@ Extraction Enrichment Processing
       Operational Intelligence
 ```
 
+## Technology Stack
+
+- Microsoft Copilot Studio
+- Power Automate
+- SharePoint Online
+- Outlook
+- Microsoft Teams
+- Microsoft 365
+
 
 
 
@@ -98,6 +107,32 @@ Project managers can ask:
 - Which emails contributed to delivery risk?
 - Generate an executive project update
 - What operational blockers currently exist?
+
+## Demo Scenario
+
+### Scenario
+
+A customer sends an escalation email regarding Project P-1045 indicating shipment delays caused by unresolved API integration failures.
+
+The email contains supporting attachments including error logs and project status updates.
+
+### ProjectPulse Workflow
+
+1. Email arrives in Outlook mailbox
+2. Power Automate extracts Project ID (P-1045)
+3. Attachments and email content are stored in SharePoint
+4. Metadata such as Risk Level, Email Type, and Escalation Indicators are automatically assigned
+5. Copilot Studio agent uses the repository as a knowledge source
+6. Project managers and leadership can query project health using natural language
+
+### Example Outcome
+
+Question:
+"Why is Project P-1045 considered high risk?"
+
+Response:
+The project has experienced repeated API integration failures, customer escalation activity, unresolved technical blockers, and delivery timeline concerns based on recent project communications and supporting documentation.
+
 
 ## Why It Matters
 
@@ -124,6 +159,26 @@ before AI reasoning occurs.
 This enables users to understand project health and operational risk instead of simply searching documents.
 
 
+## Business Value
+
+ProjectPulse helps organizations:
+
+* Reduce project information discovery time
+* Improve visibility into project risks
+* Centralize project communications
+* Enable leadership-level project insights
+* Reduce dependency on manual email reviews
+* Accelerate project status reporting
+
+### Expected Benefits
+
+* Faster identification of emerging project risks
+* Improved stakeholder awareness
+* Better project governance and decision-making
+* Reduced effort spent reviewing fragmented communication
+* Improved operational visibility across projects
+
+
 ## Solution Screenshots
 
 ### Outlook Project Email
@@ -137,6 +192,13 @@ This enables users to understand project health and operational risk instead of 
 ### Executive Summary Generation
 
 
+## Hackathon Track
+
+**Operative (Intermediate)**
+
+ProjectPulse orchestrates Outlook, Power Automate, SharePoint Online, and Copilot Studio to transform project communication into actionable operational intelligence for project managers and leadership teams.
+
+
 ## Demo Video
 
-Video walkthrough: Coming soon
+Demo video link will be added prior to final submission.
