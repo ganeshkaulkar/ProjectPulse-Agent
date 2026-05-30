@@ -33,6 +33,8 @@ The solution:
 - Supports project managers and leadership with actionable insights
 
 ## Conceptual Solution Flow
+
+The diagram below illustrates how ProjectPulse transforms project-related communication into operational intelligence using Outlook, Power Automate, SharePoint Online, and Copilot Studio.
 <img width="1536" height="1024" alt="ConceptualDiagram" src="https://github.com/user-attachments/assets/43008424-eefa-4312-a7cd-a10754dcb45a" />
 
 
