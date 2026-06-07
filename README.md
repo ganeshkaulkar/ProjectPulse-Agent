@@ -252,4 +252,4 @@ ProjectPulse orchestrates Outlook, Power Automate, SharePoint Online, and Copilo
 
 ## Demo Video
 
-Demo video link will be added prior to final submission.
+https://youtu.be/JIc4rlzEtUg?si=aKxdoCrzz_0NVNkn
